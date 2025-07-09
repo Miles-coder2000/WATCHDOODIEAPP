@@ -1,0 +1,6 @@
+{
+  "appId": "com.watchdoodie.app",
+  "appName": "WatchDoodie",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
